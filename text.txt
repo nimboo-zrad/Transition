@@ -1,6 +1,3 @@
-*hello there...
-*again hello
-_the next part is this...
-
-&and the final part is here.
-_and the final
+&THIS IS A WARNING MESSAGE!
+*Please be careful
+_this is an important point!
