@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
 }
 
-.caution, .point, .random{
+.caution, .point, .warning{
 	width: 80vw;
 	max-height: 20vh;
 	height: auto;
