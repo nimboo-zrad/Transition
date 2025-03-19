@@ -24,17 +24,17 @@ body {
 	box-sizing: border-box;
 }
 
-.caution{
+.warning{
 	border-left: solid red .4rem;
 	background: rgba(200,0,0,0.5);
 }
 
-.random{
+.point{
 	border-left: solid green .4rem;
 	background: rgba(0,200,0,0.5);
 }
 
-.point{
+.caution{
 	border-left: solid yellow .4rem;
 	background: rgba(200,200,0,0.5);
 }
