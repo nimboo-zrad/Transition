@@ -20,7 +20,7 @@ fetch("./text.txt")
 	data.forEach((val, ind)=> {
 		if(val.startsWith("*")) div(val, "caution");
 		if(val.startsWith("_")) div(val, "point");
-		if(val.startsWith("&")) div(val, "random");
+		if(val.startsWith("&")) div(val, "warning");
 	});
 })
 .catch(err=>{
