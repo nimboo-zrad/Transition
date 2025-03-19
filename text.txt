@@ -1,3 +1,0 @@
-&THIS IS A WARNING MESSAGE!
-*Please be careful
-_this is an important point!
