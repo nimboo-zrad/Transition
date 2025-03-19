@@ -10,7 +10,7 @@ const div = (txt, attr)=>{
 	body.appendChild(div);
 }
 
-fetch("./text.txt")
+fetch("./manual.txt")
 .then(response=>{
 	if(!response.ok) throw new Error("there has been a problem: ", response.message);
 	return response.text();
